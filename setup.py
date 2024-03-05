@@ -11,7 +11,7 @@ setup(
     package_dir={'': 'src'},
     url='https://github.com/gmyrianthous/example-publish-pypi',
     keywords='example project',
-    long_description="example"
+    long_description="example",
     install_requires=[
           'scikit-learn',
       ],
