@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pyooo3',
-    version='0.7',
+    version='0.7.1',
     license='MIT',
     author="ppyaa",
     author_email='ppyaa@no.github.com',
