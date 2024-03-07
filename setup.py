@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pyooo3',
-    version='0.7.1',
+    version='0.7.2',
     license='MIT',
     author="ppyaa",
     author_email='ppyaa@no.github.com',
@@ -11,7 +11,7 @@ setup(
     package_dir={'': 'src'},
     url='https://github.com/jim3333/pyooo3',
     keywords='pyooo3',
-    long_description="pyooo3 package",
+    long_description="https://github.com/jim3333/pyooo3",
     install_requires=[
           'scikit-learn',
       ],
