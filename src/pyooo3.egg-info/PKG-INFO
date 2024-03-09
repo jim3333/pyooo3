@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: pyooo3
+Version: 0.7.2
+Home-page: https://github.com/jim3333/pyooo3
+Author: ppyaa
+Author-email: ppyaa@no.github.com
+License: MIT
+Keywords: pyooo3
+Requires-Dist: scikit-learn
+
+https://github.com/jim3333/pyooo3

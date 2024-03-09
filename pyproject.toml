@@ -1,0 +1,26 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "pyooo3"
+version = "0.8.0"
+authors = [
+    { name = "ppyaa", email = "ppyaa@no.github.com" },
+]
+description = "ppyaa"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "requests",
+]
+
+[project.urls]
+Homepage = "https://github.com/jim3333/pyooo3"
+Repository = "https://github.com/jim3333/pyooo3"
+Source = "https://github.com/jim3333/pyooo3"
